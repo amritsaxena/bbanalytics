@@ -1,4 +1,4 @@
 bbanalytics
 ===========
 
-A ML-based approach to sports analytics 
+A ML-based approach to baseball analytics 
